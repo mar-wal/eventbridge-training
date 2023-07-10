@@ -1,0 +1,8 @@
+[
+  {
+    "Source": "lux",
+    "Detail": "{ \"id\": 3, \"content\": \"Article 3 content\", \"author\": \"Author 3\" }",
+    "DetailType": "article",
+    "EventBusName": "mawa-dev-bus"
+  }
+]
